@@ -10,7 +10,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(./IMG/img-login.jpg);
+    background-image: url(./img/img-login.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size:no-repeat ;
