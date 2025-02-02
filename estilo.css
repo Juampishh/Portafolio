@@ -663,6 +663,11 @@ html {
   display: inline-block;
   margin-right: 20px;
 }
+.mapa{
+  @media screen and (max-width: 700px) {
+    display: none;
+  }
+}
 footer {
   background-color: #252a2e;
   color: #fff;
