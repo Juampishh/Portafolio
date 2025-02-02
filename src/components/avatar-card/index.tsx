@@ -22,7 +22,6 @@ const AvatarCard: React.FC<AvatarCardProps> = ({
   profile,
   loading,
   avatarRing,
-  resumeFileUrl,
 }): JSX.Element => {
   return (
     <div className="shadow-lg card compact bg-base-100">
